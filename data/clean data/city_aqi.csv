@@ -1,0 +1,293 @@
+State,City,AQI,Primary_Pollutant
+Andaman and Nicobar Islands,Sri Vijaya Puram,57.7,PM10
+Andhra Pradesh,Amaravati,69.0,PM10
+Andhra Pradesh,Anantapur,67.2,PM10
+Andhra Pradesh,Chittoor,74.0,PM2.5
+Andhra Pradesh,Kadapa,66.9,PM2.5
+Andhra Pradesh,Rajamahendravaram,76.8,PM10
+Andhra Pradesh,Tirumala,75.8,PM2.5
+Andhra Pradesh,Tirupati,68.3,PM2.5
+Andhra Pradesh,Vijayawada,71.9,"PM2.5,PM10"
+Andhra Pradesh,Visakhapatnam,116.1,PM10
+Arunachal Pradesh,Naharlagun,54.5,PM2.5
+Assam,Byrnihat,240.0,PM2.5
+Assam,Guwahati,119.7,PM2.5
+Assam,Nagaon,111.2,PM2.5
+Assam,Nalbari,144.4,PM2.5
+Assam,Silchar,47.5,PM10
+Assam,Sivasagar,47.9,PM10
+Bihar,Araria,165.1,PM2.5
+Bihar,Arrah,153.6,PM10
+Bihar,Aurangabad,150.5,PM10
+Bihar,Begusarai,206.7,PM2.5
+Bihar,Bettiah,162.2,PM10
+Bihar,Bhagalpur,164.7,PM2.5
+Bihar,Bihar Sharif,134.8,PM10
+Bihar,Buxar,152.1,PM10
+Bihar,Chhapra,176.2,PM10
+Bihar,Darbhanga,190.1,PM10
+Bihar,Gaya,126.4,"PM2.5,PM10"
+Bihar,Hajipur,164.5,PM10
+Bihar,Katihar,161.8,PM2.5
+Bihar,Kishanganj,139.6,PM10
+Bihar,Manguraha,102.2,PM10
+Bihar,Motihari,139.4,PM10
+Bihar,Munger,158.9,PM10
+Bihar,Muzaffarpur,161.4,PM2.5
+Bihar,Patna,179.9,"PM2.5,PM10"
+Bihar,Purnia,161.5,PM2.5
+Bihar,Rajgir,145.8,PM10
+Bihar,Saharsa,169.9,PM2.5
+Bihar,Samastipur,170.9,PM10
+Bihar,Sasaram,135.0,PM2.5
+Bihar,Siwan,181.2,PM2.5
+Chandigarh,Chandigarh,141.6,PM2.5
+Chhattisgarh,Bhilai,72.5,PM10
+Chhattisgarh,Bilaspur,69.0,PM10
+Chhattisgarh,Chhal,76.0,PM10
+Chhattisgarh,Korba,73.0,PM10
+Chhattisgarh,Kunjemura,108.8,PM10
+Chhattisgarh,Milupara,73.1,PM10
+Chhattisgarh,Raipur,80.2,PM10
+Chhattisgarh,Tumidih,91.3,PM10
+Delhi,Delhi,206.4,"PM2.5,PM10"
+Gujarat,Ahmedabad,113.6,"PM2.5,PM10"
+Gujarat,Ankleshwar,108.9,PM2.5
+Gujarat,Gandhi Nagar,94.0,"PM2.5,PM10"
+Gujarat,Nandesari,107.8,PM2.5
+Gujarat,Surat,116.6,PM2.5
+Gujarat,Vapi,135.7,PM2.5
+Gujarat,Vatva,104.6,PM10
+Haryana,Ambala,111.2,PM2.5
+Haryana,Bahadurgarh,165.3,PM10
+Haryana,Ballabgarh,155.5,PM10
+Haryana,Bhiwani,141.2,PM2.5
+Haryana,Charkhi Dadri,155.4,PM2.5
+Haryana,Dharuhera,185.7,PM10
+Haryana,Faridabad,181.9,"PM2.5,PM10"
+Haryana,Fatehabad,145.9,PM2.5
+Haryana,Gurugram,190.8,PM2.5
+Haryana,Hisar,150.7,PM2.5
+Haryana,Jind,141.5,PM2.5
+Haryana,Kaithal,138.5,PM10
+Haryana,Karnal,108.8,PM10
+Haryana,Kurukshetra,135.0,PM2.5
+Haryana,Mandikhera,90.7,PM10
+Haryana,Manesar,151.8,PM2.5
+Haryana,Narnaul,116.7,PM2.5
+Haryana,Palwal,93.2,PM10
+Haryana,Panchgaon,130.5,O3
+Haryana,Panchkula,111.6,PM2.5
+Haryana,Panipat,128.2,PM10
+Haryana,Rohtak,149.6,PM2.5
+Haryana,Sirsa,126.1,PM10
+Haryana,Sonipat,156.2,PM10
+Haryana,Yamunanagar,137.2,PM10
+Himachal Pradesh,Baddi,160.3,PM10
+Jammu and Kashmir,Srinagar,69.5,PM10
+Jharkhand,Dhanbad,173.4,PM10
+Jharkhand,Jorapokhar,144.6,PM10
+Jharkhand,Pathardih,103.6,PM10
+Karnataka,Bagalkot,46.5,PM10
+Karnataka,Belgaum,69.8,PM10
+Karnataka,Bengaluru,74.9,"PM2.5,PM10"
+Karnataka,Bidar,80.9,PM10
+Karnataka,Chamarajanagar,43.1,PM10
+Karnataka,Chikkaballapur,64.0,PM10
+Karnataka,Chikkamagaluru,47.5,PM10
+Karnataka,Davanagere,56.9,PM10
+Karnataka,Dharwad,73.5,PM10
+Karnataka,Gadag,55.2,PM10
+Karnataka,Hassan,63.1,PM10
+Karnataka,Haveri,67.8,PM10
+Karnataka,Hubballi,72.2,PM10
+Karnataka,Kalaburagi,64.4,PM10
+Karnataka,Karwar,58.0,PM10
+Karnataka,Kolar,76.5,PM10
+Karnataka,Koppal,68.6,CO
+Karnataka,Madikeri,37.8,PM10
+Karnataka,Mangalore,70.4,PM10
+Karnataka,Mysuru,51.0,PM10
+Karnataka,Raichur,94.1,CO
+Karnataka,Ramanagara,60.6,PM10
+Karnataka,Shivamogga,54.8,PM10
+Karnataka,Tumakuru,102.7,PM10
+Karnataka,Udupi,69.7,CO
+Karnataka,Vijayapura,50.4,PM10
+Karnataka,Yadgir,65.6,PM10
+Kerala,Eloor,63.3,PM10
+Kerala,Ernakulam,46.9,CO
+Kerala,Kannur,66.0,PM10
+Kerala,Kochi,100.0,PM2.5
+Kerala,Kollam,79.3,PM10
+Kerala,Kozhikode,67.4,PM10
+Kerala,Thiruvananthapuram,54.2,PM10
+Kerala,Thrissur,64.6,PM10
+Madhya Pradesh,Bhopal,118.8,PM10
+Madhya Pradesh,Damoh,58.6,PM10
+Madhya Pradesh,Dewas,103.2,PM10
+Madhya Pradesh,Gwalior,144.8,PM2.5
+Madhya Pradesh,Indore,97.6,PM10
+Madhya Pradesh,Jabalpur,112.1,PM10
+Madhya Pradesh,Katni,123.7,PM10
+Madhya Pradesh,Maihar,53.0,PM10
+Madhya Pradesh,Mandideep,122.2,PM10
+Madhya Pradesh,Pithampur,118.1,PM10
+Madhya Pradesh,Ratlam,103.1,PM10
+Madhya Pradesh,Sagar,90.9,PM10
+Madhya Pradesh,Satna,76.0,PM10
+Madhya Pradesh,Singrauli,165.1,PM10
+Madhya Pradesh,Ujjain,119.8,PM10
+Maharashtra,Ahmednagar,121.7,PM10
+Maharashtra,Akola,94.3,PM10
+Maharashtra,Amravati,90.9,PM10
+Maharashtra,Aurangabad,98.8,PM10
+Maharashtra,Badlapur,116.5,PM10
+Maharashtra,Belapur,101.2,PM10
+Maharashtra,Bhiwandi,108.4,PM10
+Maharashtra,Boisar,99.9,PM10
+Maharashtra,Chandrapur,108.3,PM10
+Maharashtra,Dhule,103.1,PM10
+Maharashtra,Jalgaon,110.5,PM10
+Maharashtra,Jalna,110.1,PM10
+Maharashtra,Kalyan,108.5,PM10
+Maharashtra,Kolhapur,92.5,PM10
+Maharashtra,Latur,85.9,PM10
+Maharashtra,Mahad,93.0,PM10
+Maharashtra,Malegaon,112.0,PM10
+Maharashtra,Mira Bhayandar,96.9,PM10
+Maharashtra,Mumbai,105.9,"PM2.5,PM10"
+Maharashtra,Nagpur,111.1,PM10
+Maharashtra,Nanded,102.8,PM10
+Maharashtra,Nashik,84.6,PM10
+Maharashtra,Navi Mumbai,122.8,PM10
+Maharashtra,Parbhani,110.4,PM10
+Maharashtra,Pimpri Chinchwad,94.2,PM10
+Maharashtra,Pune,112.0,"PM2.5,PM10"
+Maharashtra,Sangli,85.4,PM10
+Maharashtra,Solapur,97.3,PM10
+Maharashtra,Thane,109.3,PM10
+Maharashtra,Ulhasnagar,118.7,PM10
+Maharashtra,Virar,98.1,PM10
+Manipur,Imphal,100.9,SO2
+Meghalaya,Shillong,62.7,PM2.5
+Mizoram,Aizawl,47.2,PM10
+Nagaland,Kohima,80.5,PM2.5
+Odisha,Angul,163.7,PM2.5
+Odisha,Balasore,141.3,PM2.5
+Odisha,Barbil,144.2,PM10
+Odisha,Baripada,125.3,PM10
+Odisha,Bhubaneswar,123.9,PM2.5
+Odisha,Bileipada,151.4,PM10
+Odisha,Brajrajnagar,87.0,PM10
+Odisha,Byasanagar,130.6,O3
+Odisha,Cuttack,128.3,PM10
+Odisha,Keonjhar,112.1,PM10
+Odisha,Nayagarh,118.1,PM10
+Odisha,Rairangpur,116.7,PM2.5
+Odisha,Rourkela,131.3,PM10
+Odisha,Suakati,121.0,PM10
+Odisha,Talcher,129.7,PM2.5
+Odisha,Tensa,96.8,PM10
+Puducherry,Puducherry,56.5,PM10
+Punjab,Amritsar,121.9,PM2.5
+Punjab,Bathinda,108.8,PM10
+Punjab,Jalandhar,109.9,PM10
+Punjab,Khanna,100.2,PM10
+Punjab,Ludhiana,128.1,PM10
+Punjab,Mandi Gobindgarh,147.5,PM2.5
+Punjab,Patiala,103.2,PM10
+Punjab,Rupnagar,126.1,PM10
+Rajasthan,Ajmer,101.1,PM10
+Rajasthan,Alwar,89.9,PM10
+Rajasthan,Banswara,116.8,PM10
+Rajasthan,Baran,114.2,PM10
+Rajasthan,Barmer,105.0,PM10
+Rajasthan,Bharatpur,137.1,PM10
+Rajasthan,Bhilwara,112.8,PM10
+Rajasthan,Bhiwadi,181.6,PM10
+Rajasthan,Bikaner,156.8,PM10
+Rajasthan,Bundi,133.2,PM10
+Rajasthan,Chittorgarh,129.5,PM10
+Rajasthan,Churu,139.0,PM10
+Rajasthan,Dausa,143.1,PM10
+Rajasthan,Dholpur,140.5,PM10
+Rajasthan,Dungarpur,103.7,PM10
+Rajasthan,Hanumangarh,177.8,PM10
+Rajasthan,Jaipur,131.4,PM10
+Rajasthan,Jaisalmer,128.3,PM10
+Rajasthan,Jalore,127.8,PM10
+Rajasthan,Jhalawar,106.9,PM10
+Rajasthan,Jhunjhunu,151.2,PM10
+Rajasthan,Jodhpur,126.7,PM10
+Rajasthan,Karauli,108.3,O3
+Rajasthan,Kota,131.1,PM2.5
+Rajasthan,Nagaur,135.3,PM10
+Rajasthan,Pali,124.6,PM10
+Rajasthan,Pratapgarh,100.1,PM10
+Rajasthan,Rajsamand,96.8,PM10
+Rajasthan,Sawai Madhopur,120.6,PM10
+Rajasthan,Sikar,139.0,PM10
+Rajasthan,Sirohi,90.1,PM10
+Rajasthan,Sri Ganganagar,197.9,PM10
+Rajasthan,Tonk,142.9,PM10
+Rajasthan,Udaipur,110.1,PM10
+Sikkim,Gangtok,53.7,O3
+Tamil Nadu,Ariyalur,51.7,PM10
+Tamil Nadu,Chengalpattu,82.4,PM10
+Tamil Nadu,Chennai,74.0,"PM2.5,PM10"
+Tamil Nadu,Coimbatore,69.6,PM2.5
+Tamil Nadu,Cuddalore,65.4,PM2.5
+Tamil Nadu,Dindigul,98.9,PM10
+Tamil Nadu,Gummidipoondi,107.4,PM2.5
+Tamil Nadu,Hosur,85.7,PM10
+Tamil Nadu,Kanchipuram,56.8,PM10
+Tamil Nadu,Karur,69.3,PM10
+Tamil Nadu,Madurai,55.9,PM10
+Tamil Nadu,Nagapattinam,51.5,PM2.5
+Tamil Nadu,Namakkal,60.0,PM10
+Tamil Nadu,Ooty,60.9,PM10
+Tamil Nadu,Palkalaiperur,43.3,PM10
+Tamil Nadu,Pudukottai,67.4,PM10
+Tamil Nadu,Ramanathapuram,48.0,PM10
+Tamil Nadu,Ranipet,82.3,PM2.5
+Tamil Nadu,Salem,73.4,SO2
+Tamil Nadu,Thanjavur,44.7,PM10
+Tamil Nadu,Thoothukudi,57.9,PM10
+Tamil Nadu,Tiruchirappalli,61.4,PM10
+Tamil Nadu,Tirunelveli,32.1,CO
+Tamil Nadu,Tiruppur,77.4,PM10
+Tamil Nadu,Vellore,73.7,PM10
+Tamil Nadu,Virudhunagar,60.5,PM10
+Telangana,Hyderabad,81.0,"PM2.5,PM10"
+Tripura,Agartala,126.7,PM2.5
+Uttar Pradesh,Agra,84.2,PM10
+Uttar Pradesh,Baghpat,157.3,PM10
+Uttar Pradesh,Bareilly,77.2,PM10
+Uttar Pradesh,Bulandshahr,148.1,PM10
+Uttar Pradesh,Firozabad,88.3,PM10
+Uttar Pradesh,Ghaziabad,183.0,PM10
+Uttar Pradesh,Gorakhpur,101.4,PM10
+Uttar Pradesh,Greater Noida,201.6,PM10
+Uttar Pradesh,Hapur,137.1,PM2.5
+Uttar Pradesh,Jhansi,92.6,PM10
+Uttar Pradesh,Kanpur,111.6,"PM2.5,PM10"
+Uttar Pradesh,Khurja,125.3,PM2.5
+Uttar Pradesh,Lucknow,131.1,PM2.5
+Uttar Pradesh,Meerut,158.4,PM10
+Uttar Pradesh,Moradabad,104.1,PM2.5
+Uttar Pradesh,Muzaffarnagar,175.6,PM2.5
+Uttar Pradesh,NOIDA,184.0,PM10
+Uttar Pradesh,Prayagraj,93.4,PM10
+Uttar Pradesh,Varanasi,67.1,PM10
+Uttar Pradesh,Vrindavan,105.3,PM10
+Uttarakhand,Dehradun,98.2,PM10
+Uttarakhand,Kashipur,98.1,PM10
+Uttarakhand,Rishikesh,66.4,PM10
+West Bengal,Asansol,145.5,PM2.5
+West Bengal,Barrackpore,134.5,PM10
+West Bengal,Durgapur,137.5,PM10
+West Bengal,Haldia,86.8,PM10
+West Bengal,Howrah,119.6,PM10
+West Bengal,Kolkata,102.0,PM2.5
+West Bengal,Siliguri,85.5,PM10

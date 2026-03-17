@@ -1,0 +1,109 @@
+State,Year,Violent_Crime
+Andhra Pradesh,2021,7215
+Andhra Pradesh,2022,7104
+Andhra Pradesh,2023,6432
+Arunachal Pradesh,2021,492
+Arunachal Pradesh,2022,440
+Arunachal Pradesh,2023,454
+Assam,2021,26933
+Assam,2022,14314
+Assam,2023,11552
+Bihar,2021,43780
+Bihar,2022,49610
+Bihar,2023,52165
+Chhattisgarh,2021,8458
+Chhattisgarh,2022,8848
+Chhattisgarh,2023,8602
+Goa,2021,345
+Goa,2022,396
+Goa,2023,363
+Gujarat,2021,8327
+Gujarat,2022,9015
+Gujarat,2023,8976
+Haryana,2021,12828
+Haryana,2022,13447
+Haryana,2023,14726
+Himachal Pradesh,2021,1762
+Himachal Pradesh,2022,1858
+Himachal Pradesh,2023,1869
+Jharkhand,2021,13496
+Jharkhand,2022,13323
+Jharkhand,2023,12374
+Karnataka,2021,15277
+Karnataka,2022,17091
+Karnataka,2023,17902
+Kerala,2021,8465
+Kerala,2022,9462
+Kerala,2023,10255
+Madhya Pradesh,2021,26038
+Madhya Pradesh,2022,27118
+Madhya Pradesh,2023,27927
+Maharashtra,2021,43755
+Maharashtra,2022,45358
+Maharashtra,2023,46249
+Manipur,2021,545
+Manipur,2022,631
+Manipur,2023,14427
+Meghalaya,2021,580
+Meghalaya,2022,571
+Meghalaya,2023,483
+Mizoram,2021,186
+Mizoram,2022,187
+Mizoram,2023,173
+Nagaland,2021,158
+Nagaland,2022,121
+Nagaland,2023,146
+Odisha,2021,22244
+Odisha,2022,43566
+Odisha,2023,31749
+Punjab,2021,6322
+Punjab,2022,6230
+Punjab,2023,6193
+Rajasthan,2021,23104
+Rajasthan,2022,24183
+Rajasthan,2023,24659
+Sikkim,2021,109
+Sikkim,2022,149
+Sikkim,2023,107
+Tamil Nadu,2021,12386
+Tamil Nadu,2022,12325
+Tamil Nadu,2023,11302
+Telangana,2021,9844
+Telangana,2022,9673
+Telangana,2023,10069
+Tripura,2021,1637
+Tripura,2022,1327
+Tripura,2023,1541
+Uttar Pradesh,2021,52502
+Uttar Pradesh,2022,52579
+Uttar Pradesh,2023,49453
+Uttarakhand,2021,3162
+Uttarakhand,2022,3923
+Uttarakhand,2023,3570
+West Bengal,2021,47904
+West Bengal,2022,46241
+West Bengal,2023,46838
+Andaman and Nicobar Islands,2021,88
+Andaman and Nicobar Islands,2022,99
+Andaman and Nicobar Islands,2023,122
+Chandigarh,2021,362
+Chandigarh,2022,344
+Chandigarh,2023,385
+Dadra and Nagar Haveli and Daman and Diu,2021,109
+Dadra and Nagar Haveli and Daman and Diu,2022,146
+Dadra and Nagar Haveli and Daman and Diu,2023,138
+Delhi,2021,11793
+Delhi,2022,11477
+Delhi,2023,11072
+Jammu and Kashmir,2021,3072
+Jammu and Kashmir,2022,2715
+Jammu and Kashmir,2023,2446
+Ladakh,2021,23
+Ladakh,2022,33
+Ladakh,2023,16
+Lakshadweep,2021,5
+Lakshadweep,2022,5
+Lakshadweep,2023,5
+Puducherry,2021,191
+Puducherry,2022,199
+Puducherry,2023,247
