@@ -704,7 +704,7 @@ export default function App() {
   const mapRef     = useRef(null);
   const leafletRef = useRef(null);
   const markersRef = useRef([]);
-  const API = 'http://localhost:5000/api';
+ const API = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
 
   useEffect(()=>{
     Promise.all([
